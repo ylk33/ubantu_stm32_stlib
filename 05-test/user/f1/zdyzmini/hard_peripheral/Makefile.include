@@ -1,0 +1,2 @@
+#添加外设头文件路径
+INCFLAGS+=-I./hard_peripheral/led -I./hard_peripheral/usart -I./hard_peripheral/iic

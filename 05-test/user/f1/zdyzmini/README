@@ -1,0 +1,21 @@
+|
+|
+----------main.c （主程序）
+|
+|
+----------makefile（该路径下依次执行make，生成.elf文件 make bin，生成.bin文件 make download，将.bin文件下载到单片机中）
+|
+|
+----------lscript（链接文件目录）
+|
+|
+----------startup（启动文件目录）
+|
+|
+----------hard_peripheral（外设驱动文件路径）
+                 |
+                 ----------led
+                 |
+                 ----------usart
+                 |
+                 ----------iic

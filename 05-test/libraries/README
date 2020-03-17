@@ -4,7 +4,7 @@
 -----f1---cmsis内核相关头文件
        ---inc  库头文件
        ---src  库源文件
-       ---build生成静态链接库
+       ---build  生成静态链接库（make后生成该路径）
        ---Makefile
 |
 |
